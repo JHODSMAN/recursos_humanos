@@ -1,3 +1,3 @@
 <?php
-const base_url ="http://localhost/pos_venta/";
+const base_url ="http://localhost/recursos_humanos/";
 ?>
