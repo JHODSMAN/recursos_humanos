@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="undecorated" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-94,0,0,1,-41"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="66" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="470" height="420"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial" size="18" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="TERMINOS Y CONDICIONES"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="470" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="40" width="430" height="330"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Agency FB" size="14" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="                                             INTRODUCCION&#xa;&#xa;      Estos t&#xe9;rminos y condiciones se rigen por la Ley de Protecci&#xf3;n &#xa;      de Datos Personales en Colombia (Ley 1581 de 2012) y sus&#xa;     regulaciones. Al utilizar nuestros servicios, aceptas los siguientes &#xa;      t&#xe9;rminos y condiciones relacionados con el tratamiento de datos&#xa;      personales.&#xa;                          RECOPILACION DE DATOS PERSONALES &#xa;     Recopilamos datos personales de las siguientes maneras:&#xa;     1. Registro de Cuenta: Para utilizar nuestros servicios, es posible&#xa;     que debas crear una cuenta. En este proceso, recopilamos&#xa;       informaci&#xf3;n como tu nombre, n&#xfa;mero de identificaci&#xf3;n, &#xa;      direcci&#xf3;n de correo electr&#xf3;nico, contrase&#xf1;a y otra informaci&#xf3;n &#xa;       necesaria para identificarte.&#xa;      2.Interacci&#xf3;n con Nuestros Servicios: Recopilamos informaci&#xf3;n&#xa;      cuando interact&#xfa;as con nuestra plataforma, incluyendo, pero &#xa;       sin limitarse a, datos de navegaci&#xf3;n, registros de actividad y &#xa;      preferencias.&#xa;      3.Comunicaci&#xf3;n: Podemos recopilar informaci&#xf3;n de las &#xa;     comunicaciones que tengas con nosotros, ya sea a trav&#xe9;s de &#xa;     correo electr&#xf3;nico, chat,  tel&#xe9;fono u otros medios de comunicaci&#xf3;n.&#xa;      4.Otros Datos: Tambi&#xe9;n podemos recopilar datos que nos &#xa;     Proporcionas voluntariamente o que autorizas a terceros a &#xa;     compartir con nosotros.&#xa;                                       USO DE DATOS PERSONALES&#xa;       Utilizamos tus datos personales para los siguientes fines:&#xa;     1. Proporcionar Servicios: Utilizamos tus datos para brindarte los&#xa;     servicios    que ofrecemos y para mejorarlos.&#xa;     2. Comunicaci&#xf3;n: Nos comunicamos contigo sobre tu cuenta, &#xa;     servicios y actualizaciones.&#xa;     3. Marketing: Podemos utilizar tus datos para enviar informaci&#xf3;n &#xa;     sobre  promociones, productos o servicios que puedan ser de tu &#xa;     inter&#xe9;s. Puedes optar por no recibir estas comunicaciones en&#xa;     cualquier momento.&#xa;     4. Cumplimiento Legal: Utilizamos tus datos para cumplir con las &#xa;     leyes y regulaciones aplicables en Colombia.&#xa;                                  COMPARTIR DATOS PERSONALES&#xa;     No compartimos tus datos personales con terceros, excepto en las&#xa;       siguientes   circunstancias:&#xa;      1.Proveedores de Servicios: Podemos compartir datos con &#xa;     proveedores de  servicios que trabajan en nuestro nombre y &#xa;     que necesitan acceder a tus datos   para brindarte los servicios&#xa;     solicitados.&#xa;     2.Requisitos Legales: Podemos divulgar informaci&#xf3;n cuando lo &#xa;     exija la ley  colombiana o en respuesta a una orden judicial en &#xa;     Colombia. &#xa;                                             SEGURIDAD DE DATOS&#xa;     Tomamos medidas para proteger tus datos personales de acuerdo&#xa;     con las  normas de seguridad establecidas en Colombia. Sin &#xa;     embargo, debes ser  consciente de que ninguna medida de&#xa;     seguridad en l&#xed;nea es completamente  infalible. Te recomendamos &#xa;     tomar precauciones para proteger tu informaci&#xf3;n  personal. &#xa;                            DERECHOS DE LOS TITULARES DE LOS DATOS&#xa;     Como titular de datos personales, tienes derechos en virtud de la &#xa;      Ley 1581 de  2012, incluyendo el derecho de acceso, rectificaci&#xf3;n, &#xa;     actualizaci&#xf3;n y supresi&#xf3;n  de tus datos personales. Puedes ejercer &#xa;     estos derechos enviando una solicitud a adminitec@gmail.com  &#xa;                                           CAMBIOS DE TERMINOS&#xa;      Nos reservamos el derecho de modificar estos t&#xe9;rminos y &#xa;      condiciones en  cualquier momento, de acuerdo con la legislaci&#xf3;n&#xa;      colombiana. Te notificaremos de cualquier cambio importante a &#xa;     trav&#xe9;s de los medios de comunicaci&#xf3;n que consideremos apropiado&#xa;     Tu uso continuado de nuestros servicios despu&#xe9;s  de la publicaci&#xf3;n &#xa;     de cambios constituye tu aceptaci&#xf3;n de dichos cambios.&#xa;                                                         CONTACTO&#xa;     Si tienes preguntas o inquietudes sobre estos t&#xe9;rminos y condiciones &#xa;     o sobre el tratamiento de tus datos personales de acuerdo con la &#xa;     legislaci&#xf3;n colombiana, por favor cont&#xe1;ctanos en adminitec@gmail.com&#xa;&#xa;             FECHA DE ULTIMA ACTUALIZACION: 20-septiembr&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JCheckBox" name="checkAceptar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="8" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="ACEPTO TERMINOS Y CONDICIONES"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="60" y="380" width="180" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnEntrar1">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="GET IN"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btnEntrar1MouseClicked"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnEntrar1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="260" y="380" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnEntrar">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="EXIT"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btnEntrarMouseClicked"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnEntrarActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="350" y="380" width="60" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
